@@ -25,3 +25,4 @@ Otras funciones muy usadas. Una es Relu(u) [link Wikipedia](https://es.wikipedia
 
 La más usada es Relu(u) para activación de neuronas (es la más común aunque las otras pueden ser usadas).
 
+La forma de una red neuronal tiene distintas capas (entradas, escondida y capa de salida) Entonces una red neuronal tiene al menos dos perceptrones, pensando que y es un perceptrón de salida. 
