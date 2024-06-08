@@ -19,4 +19,9 @@ Esta es una función que no se usa en general, aunque para tñerminos histórico
 
 La función que se utiliza regularmente es Sigmoid function (Función sigmoide) es una especie de aproximación a la función escalón, pero que es continua y suave. Cumple un rol parecido, pero cuando lo acumulado en el perceptrón es negativo no se activa, pero funciona distinto cuando está cerca del cero. Acá un [link de Wikipedia](https://es.wikipedia.org/wiki/Funci%C3%B3n_sigmoide) ahí la fórmula.
 
-Otra función de activación muy común
+Otra función de activación muy común es la tangente hiperbólica [link Wikipedia](https://es.wikipedia.org/wiki/Tangente_hiperb%C3%B3lica) En esta la forma es distinta, se diferencia mucho respecto a las dos funciones anteriores. Cuando el u es negativo no es que no esté excitada, sino que se excita pero en una dirección del tipo "chupando la información" y cuando la u es positivo lo hace en la otra dirección.
+
+Otras funciones muy usadas. Una es Relu(u) [link Wikipedia](https://es.wikipedia.org/wiki/Rectificador_(redes_neuronales)) Esta función ya nos estamos alejando de tratar de imitar la biología humana y estamos más en el área matemática. La última es la función lineal [link Wikipedia](https://es.wikipedia.org/wiki/Funci%C3%B3n_lineal) Esta es la función muy simple.
+
+La más usada es Relu(u) para activación de neuronas (es la más común aunque las otras pueden ser usadas).
+
