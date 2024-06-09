@@ -21,3 +21,7 @@ Entonces una función que se ve tan simple puede ser tan poderoso para aproximar
 Luego hace un nuevo dibujo de redes neuronales en capas más que de perceptrones. Estos son los multi-layer perceptron (MLP) [link Datacamp](https://www.datacamp.com/tutorial/multilayer-perceptrons-in-machine-learning) 
 
 Estas Redes se llaman Feed-Forward porque por los datos entran por la entrada y fluyen hasta el final. Por ejemplo las redes convolucionales también fluyen hasta el final. 
+
+### Función de salida (softmax)
+ 
+ Softmax es una función a un grupo de valores. Va a dar como salida varios valores. De esta forma todos los valores van a ser entre cero y uno y todos suman uno. Esta función se llama softmax esta función está eligiendo el máximo, generando una función donde el máximo valor del arreglo está cercano a uno. 
